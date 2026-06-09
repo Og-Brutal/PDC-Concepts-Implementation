@@ -14,7 +14,7 @@ from collections import defaultdict
 # ============================================================
 # Hypercube Node
 # ============================================================
-
+ 
 class HypercubeNode:
     """Represents a node in the hypercube topology."""
     
