@@ -17,7 +17,7 @@ from collections import defaultdict
  
 class HypercubeNode:
     """Represents a node in the hypercube topology."""
-    
+     
     def __init__(self, node_id, d):
         self.id = node_id
         self.d = d
