@@ -4,7 +4,7 @@ Implements dimension-ordered routing with double buffering and barrier synchroni
 """
 
 import time
-import threading
+import threading 
 import numpy as np 
 import matplotlib 
 matplotlib.use('Agg')
