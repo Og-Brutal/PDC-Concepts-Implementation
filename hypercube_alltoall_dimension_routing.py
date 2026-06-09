@@ -8,7 +8,7 @@ import threading
 import numpy as np
 import matplotlib 
 matplotlib.use('Agg')
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 from collections import defaultdict 
 
 # ============================================================ 
